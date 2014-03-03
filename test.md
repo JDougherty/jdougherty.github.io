@@ -11,4 +11,12 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+![](http://d.thumbs.redditmedia.com/_aiwVpTvSsRj4czc.jpg)
+
+<table>
+  <tr>
+    <td>Image in HTML</td>
+    <td>![](http://d.thumbs.redditmedia.com/_aiwVpTvSsRj4czc.jpg)</td>
+  </tr>
+</table>
 
